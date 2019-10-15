@@ -1,0 +1,9 @@
+<keymap version="1" name="Default for Windows 复制" parent="$default">
+  <action id="ChangesView.SetDefault" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+</keymap>
